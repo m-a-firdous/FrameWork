@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tayyaba
+ *
+ */
+module Class {
+}
