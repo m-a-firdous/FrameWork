@@ -6,5 +6,6 @@ public class Demo
 		System.out.println("hello");
 		//pull
 		//2nd push
+		/2nd pull
 	}
 }
